@@ -2,13 +2,13 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img src="assets/terminal-light.svg" width="100%" alt="Terminal : whoami → Ahmet Basbunar, développeur d'applications à Metz. now.txt → BUT Informatique 2e année, CoreTend sur macOS, Swift TypeScript SQL C. stage → 8 semaines, du 12 avril au 4 juin 2027, Metz ou Luxembourg.">
+  <img src="assets/terminal-light.svg" width="100%" alt="Terminal : whoami → Ahmet Basbunar, développeur d'applications à Metz. now.txt → BUT Informatique 2e année, CoreTend sur macOS, Swift TypeScript SQL C. stage → 2 mois minimum à partir du 12 avril 2027, Metz ou Luxembourg.">
 </picture>
 
 <a href="https://ahmetbsbnr.com"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-ahmetbsbnr.com-1f5bd6?style=flat-square"></a>
 <a href="https://www.linkedin.com/in/ahmet-basbunar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ahmet--basbunar-0a66c2?style=flat-square"></a>
 <a href="mailto:contact@ahmetbsbnr.com"><img alt="Email" src="https://img.shields.io/badge/email-contact%40ahmetbsbnr.com-24292f?style=flat-square&logo=maildotru&logoColor=white"></a>
-<img alt="Stage 12 avril – 4 juin 2027" src="https://img.shields.io/badge/stage-12%20avril%20→%204%20juin%202027-1a7f37?style=flat-square">
+<img alt="Stage de 2 mois minimum dès le 12 avril 2027" src="https://img.shields.io/badge/stage-2%20mois%20min.%20dès%20le%2012%20avril%202027-1a7f37?style=flat-square">
 
 </div>
 
@@ -118,7 +118,7 @@ Côté données : MCD et MRD (Looping), contraintes, jointures, agrégations, so
   2022  Bac STI2D, option SIN ·················· Metz
 + 2024  BUT Informatique · Réalisation d'applications · IUT de Metz
 + 2026  CoreTend publiée : signée, notarisée, sur Homebrew et npm
-@@ 2027  Stage de 8 semaines, du 12 avril au 4 juin : votre équipe ? @@
+@@ 2027  Stage de 2 mois minimum, dès le 12 avril : votre équipe ? @@
 ```
 
 <br>
@@ -154,7 +154,7 @@ Côté données : MCD et MRD (Looping), contraintes, jointures, agrégations, so
 
 ## `$ ./contact`
 
-Je cherche **un stage de 8 semaines, du 12 avril au 4 juin 2027**, dans une équipe qui fait avancer un vrai produit, à Metz, aux alentours ou au Luxembourg. Développement d'applications, web, tests, ou un projet d'IA.
+Je cherche **un stage de 2 mois minimum, à partir du 12 avril 2027**, dans une équipe qui fait avancer un vrai produit, à Metz, aux alentours ou au Luxembourg. Développement d'applications, web, tests, ou un projet d'IA.
 
 <p>
 <a href="mailto:contact@ahmetbsbnr.com"><b>contact@ahmetbsbnr.com</b></a> ·
