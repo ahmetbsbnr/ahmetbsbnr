@@ -148,7 +148,10 @@ Côté données : MCD et MRD (Looping), contraintes, jointures, agrégations, so
 </tr>
 </table>
 
-**CERTIFICATIONS** : PIX (2024) · Kaggle *Intro to Programming* (2024)
+**CERTIFICATIONS**
+- Claude Academy (Anthropic), 2026 : [AI Fluency: Framework and foundations](https://academy.claude.com/verify/cb496fb08a19baa295376548f2cebbb3) · [AI Fluency for builders](https://academy.claude.com/verify/cdda93c1bef3e439d4932c3f725c0aa5) · [AI capabilities and limitations](https://academy.claude.com/verify/b88993ac507900f8512a3e194f7ea05f) · [Building effective human-agent teams](https://academy.claude.com/verify/9e0df9f9e9b495d144056bc767c76609)
+- Kaggle, 2024 : [Intro to Programming](https://www.kaggle.com/learn/certification/ahmetbasbunar/intro-to-programming)
+- PIX, 2024 : compétences numériques
 
 <br>
 
