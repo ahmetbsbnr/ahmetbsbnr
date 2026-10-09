@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmet Basbunar — construire des applications utiles</title>
+  <desc id="desc">Étudiant en informatique à Metz, créateur de CoreTend, disponible pour un stage à partir d'avril 2027.</desc>
+  <rect width="1200" height="450" rx="8" fill="#123fda"/>
+  <path d="M0 0h1200v450H0z" fill="url(#wash)"/>
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#123fda"/><stop offset="1" stop-color="#082b9e"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0v40" fill="none" stroke="#fff" stroke-opacity=".075" stroke-width="1"/></pattern>
+    <clipPath id="shape"><rect width="1200" height="450" rx="8"/></clipPath>
+  </defs>
+  <g clip-path="url(#shape)">
+    <rect width="1200" height="450" fill="url(#grid)"/>
+    <circle cx="1052" cy="222" r="190" fill="none" stroke="#a5ed69" stroke-width="1.5" stroke-opacity=".85"/>
+    <circle cx="1052" cy="222" r="146" fill="none" stroke="#a5ed69" stroke-width="1" stroke-opacity=".5"/>
+    <circle cx="1052" cy="222" r="95" fill="#a5ed69"/>
+    <path d="M875 72l345 300M1220 72L875 372" stroke="#a5ed69" stroke-opacity=".4"/>
+    <path d="M1052 27v390M857 222h390" stroke="#a5ed69" stroke-opacity=".45"/>
+    <text x="1052" y="248" text-anchor="middle" fill="#123fda" font-family="Arial, Helvetica, sans-serif" font-size="73" font-weight="800" letter-spacing="-8">AB</text>
+    <circle cx="1052" cy="32" r="6" fill="#fff"/><circle cx="1238" cy="222" r="6" fill="#fff"/>
+    <text x="72" y="83" fill="#c8d6ff" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">AHMET BASBUNAR　·　ÉTUDIANT &amp; DÉVELOPPEUR</text>
+    <text x="68" y="192" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800" letter-spacing="-3">Des idées.</text>
+    <text x="68" y="270" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800" letter-spacing="-3">Des applications.</text>
+    <rect x="72" y="303" width="46" height="5" fill="#a5ed69"/>
+    <text x="72" y="350" fill="#e0e8ff" font-family="Arial, Helvetica, sans-serif" font-size="20">Du modèle de données à l'expérience finale.</text>
+    <text x="72" y="396" fill="#c8d6ff" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.2">BUT INFORMATIQUE · METZ　　　CORETEND · MACOS　　　STAGE · AVRIL 2027</text>
+  </g>
+</svg>
